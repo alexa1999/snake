@@ -6,7 +6,7 @@
 class Bug:public Personaje//elimina el recorrido de el personaje
 {
     protected:
-        Direction dir;//bug fallo
+        Direction dir;//fallo
     public:
         Bug();
         Bug(char);

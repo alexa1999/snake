@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1510178942 source:d:\anel\snake\main.cpp
+	<iostream>
+	"OneGame.h"
+
+1510177921 source:d:\anel\snake\src\position.cpp
+	"Position.h"
+
+1510278495 d:\anel\snake\include\position.h
+
+1510177981 source:d:\anel\snake\src\tamanio.cpp
+	"Tamanio.h"
+
+1510177981 d:\anel\snake\include\tamanio.h
+
+1510178304 source:d:\anel\snake\src\direction.cpp
+	"Direction.h"
+
+1510178304 d:\anel\snake\include\direction.h
+
+1510177957 source:d:\anel\snake\src\pantalla.cpp
+	"Pantalla.h"
+
+1510177957 d:\anel\snake\include\pantalla.h
+	"Position.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<string>
+	<conio.h>
+	<time.h>
+	<sstream>
+
+1510316670 source:d:\anel\snake\src\ventana.cpp
+	"Ventana.h"
+
+1510316670 d:\anel\snake\include\ventana.h
+	"Pantalla.h"
+	"Tamanio.h"
+
+1510277911 source:d:\anel\snake\src\personaje.cpp
+	"Personaje.h"
+
+1510178352 d:\anel\snake\include\personaje.h
+	"Pantalla.h"
+
+1510178581 source:d:\anel\snake\src\bug.cpp
+	"Bug.h"
+
+1510178581 d:\anel\snake\include\bug.h
+	"Personaje.h"
+	"Direction.h"
+
+1510178816 source:d:\anel\snake\src\obstacle.cpp
+	"Obstacle.h"
+
+1510178816 d:\anel\snake\include\obstacle.h
+	"Personaje.h"
+	"Bug.h"
+
+1510278208 source:d:\anel\snake\src\onegame.cpp
+	"OneGame.h"
+
+1510178796 d:\anel\snake\include\onegame.h
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<string>
+	<conio.h>
+	<time.h>
+	<sstream>
+	"Ventana.h"
+	"Obstacle.h"
+
